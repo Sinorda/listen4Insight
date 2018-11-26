@@ -88,14 +88,15 @@ header.container-fluid {
 
 /* <=== HEADER IMAGE ===> */
 .header {
-    background-image: url('../img/listenimage2.jpg') !important;
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-image: url('../img/background_pattern.jpeg') !important;
+    background-size: 40%;
+    background-repeat: repeat;
     background-position: center;
     /**/
-    align-content: center;
-    align-items: center;
-    justify-content: center;
+    align-content: center !important;
+    align-items: center !important;
+    display: flex;
+    justify-content: center !important;
 }
 
 /* <=== NAVIGATION ===> */
