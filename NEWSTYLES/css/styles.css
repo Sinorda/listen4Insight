@@ -29,7 +29,7 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,600,600i');
 
 * {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
     font-size: 1rem;
     font-weight: 400;
     color: #757575;
@@ -49,10 +49,8 @@ h5 { font-size: 1.25rem;    }
 h6 { font-size: 1.125rem;   }
 
 p {
-    font-size: 0.9375rem;
+    font-size: 1rem;
     line-height: 1.5;
-    text-align: justify;
-    text-align-last: left;
 }
 
 hr {
