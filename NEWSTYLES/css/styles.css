@@ -85,6 +85,14 @@ header.container-fluid {
     padding: 0rem !important;
 }
 
+/* <=== HEADER IMAGE ===> */
+.header {
+    background-image: url('../img/background_pattern.jpeg') !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 /* <=== NAVIGATION ===> */
 /* general navbar layout */
 .navbar {
